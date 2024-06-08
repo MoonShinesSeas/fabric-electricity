@@ -12,16 +12,20 @@
 
 #### 一、系统预览
 1、查看电力信息
-![查看电力信息.png](https://www.freeimg.cn/i/2024/06/08/6663dbbf21dd3.png)  
+<!-- ![查看电力信息.png](https://www.freeimg.cn/i/2024/06/08/6663dbbf21dd3.png)   -->
+ ![查看电力信息.png](./readme_img/electricity_info.png)
 
 2、查看市场信息  
-![编辑市场信息.png](https://www.freeimg.cn/i/2024/06/08/6663dbbf21fa5.png)  
+<!-- ![编辑市场信息.png](https://www.freeimg.cn/i/2024/06/08/6663dbbf21fa5.png)   -->
+![查看市场信息.png](./readme_img/electricity_market.png)
 
 3、查看订单信息
-![添加订单信息.png](https://www.freeimg.cn/i/2024/06/08/6663dbbf3a0c9.png)  
+<!-- ![添加订单信息.png](https://www.freeimg.cn/i/2024/06/08/6663dbbf3a0c9.png)   -->
+![添加订单信息.png](./readme_img/order_info.png)
 
 4、查看交易信息  
-![查询交易信息.png](https://www.freeimg.cn/i/2024/06/08/6663dbbf3b253.png)  
+<!-- ![查询交易信息.png](https://www.freeimg.cn/i/2024/06/08/6663dbbf3b253.png)   -->
+![查看交易信息.png](./readme_img/complete.png)
 
 #### 二、源码获取   
 https://github.com/MoonShinesSeas/fabric-electricity.git 
