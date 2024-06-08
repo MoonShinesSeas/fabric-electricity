@@ -40,4 +40,7 @@ cd test-network
 sudo chmod -R +x ./start.sh
 ./start.sh
 ```
+执行成功是这样的
+![顺利执行信息.png](https://www.freeimg.cn/i/2024/06/08/6663e9d1ef154.png)  
+
 
